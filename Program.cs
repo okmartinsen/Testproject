@@ -17,7 +17,7 @@ namespace Testproject
             //Console.ForegroundColor = ConsoleColor.Gray;
             Console.WriteLine("What is your name?");
 
-            string playerName = "Ape"; //Console.ReadLine();
+            string playerName = Console.ReadLine();
 
             Console.WriteLine("Hello {0}, let's play a game!", playerName);
 
