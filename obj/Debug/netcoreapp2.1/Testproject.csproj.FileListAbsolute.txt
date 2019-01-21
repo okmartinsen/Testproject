@@ -1,0 +1,11 @@
+\\corp.corpcommon.com\users\E212300\MY Documents\CSharp\Proj\Repos\Testproject\bin\Debug\netcoreapp2.1\Testproject.deps.json
+\\corp.corpcommon.com\users\E212300\MY Documents\CSharp\Proj\Repos\Testproject\bin\Debug\netcoreapp2.1\Testproject.runtimeconfig.json
+\\corp.corpcommon.com\users\E212300\MY Documents\CSharp\Proj\Repos\Testproject\bin\Debug\netcoreapp2.1\Testproject.runtimeconfig.dev.json
+\\corp.corpcommon.com\users\E212300\MY Documents\CSharp\Proj\Repos\Testproject\bin\Debug\netcoreapp2.1\Testproject.dll
+\\corp.corpcommon.com\users\E212300\MY Documents\CSharp\Proj\Repos\Testproject\bin\Debug\netcoreapp2.1\Testproject.pdb
+\\corp.corpcommon.com\users\E212300\MY Documents\CSharp\Proj\Repos\Testproject\obj\Debug\netcoreapp2.1\Testproject.csprojAssemblyReference.cache
+\\corp.corpcommon.com\users\E212300\MY Documents\CSharp\Proj\Repos\Testproject\obj\Debug\netcoreapp2.1\Testproject.csproj.CoreCompileInputs.cache
+\\corp.corpcommon.com\users\E212300\MY Documents\CSharp\Proj\Repos\Testproject\obj\Debug\netcoreapp2.1\Testproject.AssemblyInfoInputs.cache
+\\corp.corpcommon.com\users\E212300\MY Documents\CSharp\Proj\Repos\Testproject\obj\Debug\netcoreapp2.1\Testproject.AssemblyInfo.cs
+\\corp.corpcommon.com\users\E212300\MY Documents\CSharp\Proj\Repos\Testproject\obj\Debug\netcoreapp2.1\Testproject.dll
+\\corp.corpcommon.com\users\E212300\MY Documents\CSharp\Proj\Repos\Testproject\obj\Debug\netcoreapp2.1\Testproject.pdb
